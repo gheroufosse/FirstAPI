@@ -33,7 +33,7 @@ JSON : JavaScript Object Notation
 Whenever you return information to an end point, that information is going to be translated to JSON. Data exchange within API's is in the JSON format, so they also can be mistakes between information.
 
 
-## Request body and posst method
+## Request body and post method
 
 Request body is used to send some information to the API (?)
 
