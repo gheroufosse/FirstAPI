@@ -1,5 +1,6 @@
 # FirstAPI
 
+Following the Tech with Tim tutorial on YouTube (https://www.youtube.com/watch?v=-ykeT6kk4bk&ab_channel=TechWithTim).
 
 Advantage #1 : Data validation
 
